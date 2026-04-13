@@ -1,0 +1,35 @@
+*Step 1*
+
+    Player opens site
+
+*Step 2*
+
+    Click “Create game” or “Join game”
+
+*Step 3*
+
+    Player A gets a hidden number (1–10)
+
+*Step 4*
+
+    Player B writes:
+
+    “she’s a 10 but …”
+
+*Step 5*
+
+    Player B guesses rating (slider 1–10)
+
+*Step 6*
+
+    Backend compares:
+
+    real number vs guess
+
+*Step 7*
+
+    Show result
+
+*Step 8*
+
+    Next round button resets
